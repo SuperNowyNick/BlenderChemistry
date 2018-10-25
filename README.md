@@ -1,4 +1,4 @@
-# BlenderChemistry
+# chemblend
 Addons for importing and working with chemical structure files
 
 For now it only consists of one import script but it will be updated as needed
